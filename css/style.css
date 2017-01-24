@@ -1,0 +1,25 @@
+body{
+    background-color: #c6c6c6;
+}
+
+.active a{
+    color: red !important;
+}
+
+#banner{
+    height: 196px;
+    background-image: url("../images/banner_cat.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#wrapper nav{
+    margin-bottom: 0px;
+}
+
+h1#title {
+    font-size: 60px;
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
